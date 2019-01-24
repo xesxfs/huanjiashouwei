@@ -1,0 +1,3 @@
+Please adjust your flashplayer storage settings and 
+--- RECORDSEPARATOR ---
+make sure cookies are allowed in your web browser.
